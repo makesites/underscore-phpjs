@@ -1,0 +1,3 @@
+[submodule "ucwords"]
+	path = ucwords
+	url = git://gist.github.com/5047054.git
